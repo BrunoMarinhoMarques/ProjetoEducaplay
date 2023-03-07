@@ -1,0 +1,78 @@
+﻿  AcessoCadastro.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\AcessoCadastro.c(145,3): warning C4013: 'Sleep' indefinido; assumindo extern retornando int
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\AcessoCadastro.c(146,3): warning C4013: 'CadastroUsuario' indefinido; assumindo extern retornando int
+  AlterarDados.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\AlterarDados.c(13,47): warning C4047: '=': 'int' difere em níveis de indireção de 'FILE *'
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\AlterarDados.c(99,30): warning C4013: 'getch' indefinido; assumindo extern retornando int
+  AtivarUsuario.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\AtivarUsuario.c(20,29): warning C4101: 'cpf_int': variável local não referenciada
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\AtivarUsuario.c(19,7): warning C4101: 'retorno': variável local não referenciada
+  backup.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\backup.c(56,9): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\backup.c(68,9): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\backup.c(44,37): warning C4101: 'tam_backup': variável local não referenciada
+  BuscarInativoeAtivo.c
+  CadastroEquipamento.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroEquipamento.c(22,2): warning C4013: 'memset' indefinido; assumindo extern retornando int
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroEquipamento.c(37,15): warning C4102: 'voltainicio': rótulo não referenciado
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroEquipamento.c(18,8): warning C4101: 'VerUltimoID': variável local não referenciada
+  CadastroUsuario.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroUsuario.c(82,31): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroUsuario.c(110,34): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroUsuario.c(132,15): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroUsuario.c(91,14): warning C4102: 'data_nasc': rótulo não referenciado
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroUsuario.c(20,8): warning C4101: 'CPFCadastrados': variável local não referenciada
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CadastroUsuario.c(25,121): warning C4101: 'tamanho_data_nasc': variável local não referenciada
+  CaixaEntrada.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(49,22): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(60,3): warning C4013: 'Sleep' indefinido; assumindo extern retornando int
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(108,43): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(148,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(199,41): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(38,22): warning C4101: 'ler_umensagem': variável local não referenciada
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(37,18): warning C4101: 'armazenar_nome': variável local não referenciada
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\CaixaEntrada.c(281,20): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  conio2.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\conio2.c(61,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\conio2.c(62,13): warning C4244: '=': conversão de 'DWORD' para 'char', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\conio2.c(153,43): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\conio2.c(170,11): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\conio2.c(413,18): warning C4018: '<': incompatibilidade de signed/unsigned
+  Data.c
+  Equipamentos.c
+  ExcluirCaixaEntrada.c
+  funcoes_ascii.c
+  ImprimirEquipamento.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\ImprimirEquipamento.c(32,2): warning C4013: 'getch' indefinido; assumindo extern retornando int
+  ImprimirInativoeAtivo.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\ImprimirInativoeAtivo.c(37,2): warning C4013: 'getch' indefinido; assumindo extern retornando int
+  ImprimirUsuario.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\ImprimirUsuario.c(53,2): warning C4013: 'getch' indefinido; assumindo extern retornando int
+  InativarUsuario.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\InativarUsuario.c(19,29): warning C4101: 'cpf_int': variável local não referenciada
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\InativarUsuario.c(18,7): warning C4101: 'retorno': variável local não referenciada
+  MascaraSenha.c
+  Menu.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\Menu.c(85,22): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\Menu.c(180,5): warning C4013: 'Sleep' indefinido; assumindo extern retornando int
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\Menu.c(282,23): warning C4047: '!=': 'char [50]' difere em níveis de indireção de 'int'
+  MotraMensagemCaixaEntrada.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\MotraMensagemCaixaEntrada.c(17,26): warning C4101: 'ler_umensagem': variável local não referenciada
+  Gerando Código...
+  Compilando...
+  PesquisaUsuario.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\PesquisaUsuario.c(54,10): warning C4013: 'strcmp' indefinido; assumindo extern retornando int
+  Principal.c
+  TelaLogin.c
+  UsuariosAtivosInativos.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\UsuariosAtivosInativos.c(11,2): warning C4013: 'system' indefinido; assumindo extern retornando int
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\UsuariosAtivosInativos.c(26,10): warning C4129: '>': sequência de escape de caractere não reconhecida
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\UsuariosAtivosInativos.c(27,28): warning C4013: 'getch' indefinido; assumindo extern retornando int
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\UsuariosAtivosInativos.c(45,15): warning C4013: 'atoi' indefinido; assumindo extern retornando int
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\UsuariosAtivosInativos.c(13,7): warning C4101: 'cpf': variável local não referenciada
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\UsuariosAtivosInativos.c(12,10): warning C4101: 'u': variável local não referenciada
+  VerificaLoginSenha.c
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\VerificaLoginSenha.c(117,21): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\Educaplay\VerificaLoginSenha.c(132,22): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Gerando Código...
+  Educaplay.vcxproj -> C:\Users\Bruno Henrique\OneDrive\Área de Trabalho\Educaplay_06_12_2022\Educaplay\x64\Debug\Educaplay.exe
