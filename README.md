@@ -11,3 +11,7 @@ Tela de Login
 Menu Principal
 
 ![Educaplay2](https://github.com/BrunoMarinhoMarques/ProjetoEducaplay/assets/127245644/8137988a-fa20-4dc8-91a1-19144e0fac60)
+
+Caixa de Mensagem
+
+![Educaplay3](https://github.com/BrunoMarinhoMarques/ProjetoEducaplay/assets/127245644/d6e10f0b-d328-435b-aa7e-0b5a6727f015)
